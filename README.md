@@ -1,6 +1,4 @@
-# tuyatest
-
-A new Flutter project.
+# State Management Bloc - Flutter
 
 ## Getting Started
 
